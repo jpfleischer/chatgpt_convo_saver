@@ -1,6 +1,7 @@
 # chatgpt_convo_saver
 Save my own chats when im locked out of my OpenAI account
 
+**EDIT::** turns out this repo does it much better.. https://github.com/pionxzh/chatgpt-exporter?tab=readme-ov-file
 
 This tampermonkey script is made for people who cannot
 export their data but are still somehow magically logged into
