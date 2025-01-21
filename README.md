@@ -16,3 +16,4 @@ functionality to
 beautifulsoup so that in the event your account gets deleted, we can
 take those generated html files and view simply how the convo went
 
+but maybe i will add those things later..
